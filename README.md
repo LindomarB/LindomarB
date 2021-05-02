@@ -35,26 +35,7 @@ snake
 
 
 ### Analytics ⚙️
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LindomarB)
-
-<p align="left">
-<a href="https://github.com/LindomarB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=LindomarB&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LindomarB&layout=compact&langs_count=8"/>
-</a>
-</p>
-
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LindomarB&show_icons=true&theme=dark&locate=pt)
 
 
 
-### Let's connect ? 🤝
-
-<p align="left">
-<a href="http://bit.ly/guillaumefalourdlinkedin"><img src="#"/></a>
-<a href="http://bit.ly/guillaumefalourdtwitter"><img src="#"/></a>
-<a href="http://bit.ly/guillaumefalourdmedium"><img src="#?style=flat&logo=medium&logoColor=white"/></a>
-<a href="http://bit.ly/guillaumefalourddevto"><img src="https://img.shields.io/badge/#?style=flat&logo=dev.to&logoColor=white"/></a>
-<a href="mailto:#"><img src="https://img.shields.io/badge/#?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
