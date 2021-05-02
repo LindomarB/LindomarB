@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 snake
-![Snake animation](https://github.com/LindomarB/LindomarB/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LindomarB/LindomarB/blob/main/github-contribution-grid-snake.svg)
 
 
 ### Linguagens e Ferramentas 🛠
