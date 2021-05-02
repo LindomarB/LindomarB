@@ -38,6 +38,6 @@ snake
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LindomarB&show_icons=true&theme=dracula&locate=pt)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LindomarB&hide=python,tcl)](https://github.com/LindomarB/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LindomarB&hide=python,tcl,C,C++)](https://github.com/LindomarB/github-readme-stats)
 
 
