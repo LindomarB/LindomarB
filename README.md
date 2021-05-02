@@ -19,7 +19,7 @@ snake
 ![Snake animation](https://github.com/LindomarB/LindomarB/blob/output/github-contribution-grid-snake.svg)
 
 
-### Languages & Tools 🛠
+### Linguagens e Ferramentas 🛠
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
@@ -38,5 +38,7 @@ snake
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LindomarB&show_icons=true&theme=dracula&locate=pt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LindomarB)](https://github.com/LindomarB/OrangeTalent)
+#excluindo python
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LindomarB&exclude_repo=Curso-em-video-git,LindomarB.github.io)](https://github.com/LindomarB/github-readme-stats)
 
 
