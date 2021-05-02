@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-### Linguagens 
+### Linguagens 💻
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
