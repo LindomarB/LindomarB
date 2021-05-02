@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-snake
-![Snake animation](https://github.com/LindomarB/LindomarB/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ### Linguagens e Ferramentas 🛠
