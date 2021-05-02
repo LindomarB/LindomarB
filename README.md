@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Lindomar Bassetti</h1>
-<h3 align="center">Um apaixonado por tecnologia e futuro desenvolvedor Java Fullstake</h3>
+<h3 align="center">Um apaixonado por tecnologia e futuro desenvolvedor Java Fullstack</h3>
 
 - 🔭 Atualmente estou trabalhando no projeto [Aprendendo Java](https://github.com/LindomarB/JAVA_Lee)
 
@@ -13,13 +13,13 @@
 
 - 📫 Como me encontrar **lindomar1802@gmail.com**
 
-- 📄 Minhas experiências [Estagiario na MgNetwork- Desenvolvedor Web](Estagiario na MgNetwork- Desenvolvedor Web)
+- 📄 Minhas experiências [Estagiario na MgNetwork- Desenvolvedor Web]()
 
 - ⚡ Fun fact **sou brasileiro mas não curto futebol nem carnaval**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectar-se:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lindomar-bassetti-34130b15b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lindomar-bassetti-34130b15b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lindomar-bassetti/" target="blank"> <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lindomar-bassetti/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagesn e Ferramentas:</h3>
