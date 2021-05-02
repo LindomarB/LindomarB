@@ -35,7 +35,7 @@ snake
 
 
 ### Analytics ⚙️
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LindomarB&show_icons=true&theme=dark&locate=pt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LindomarB&show_icons=true&theme=dracula&locate=pt)
 
 
 
