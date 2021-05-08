@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou o Lindomar Bassetti</h1>
 <h3 align="center">Um apaixonado por tecnologia e futuro desenvolvedor Java Fullstack</h3>
 
-- 🔭 Atualmente estou trabalhando no projeto [Aprendendo Java](https://github.com/LindomarB/JAVA_Lee)
+- 🔭 Atualmente estou trabalhando no projeto [Projeto-integrador-sds3](https://github.com/LindomarB/Projeto-integrador-sds3)
 
-- 🌱 Atualmente estou aprendendo **Spring Boot, Java, Vue**
+- 🌱 Atualmente estou aprendendo **Spring Boot, Java, Vue,React**
 
 - 👯 Estou procurando colaborar em **Projetos Java**
 
